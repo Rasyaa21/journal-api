@@ -11,7 +11,7 @@ Route::get('/user', function (Request $request) {
 
 
 Route::group(['middleware' => 'auth:sanctum'], function () {
-    Route::get('/home', [JournalController::class, 'index']);
+    Route::get('/index', [JournalController::class, 'index']);
     Route::post('/journal', [JournalController::class, 'store']);
     Route::get('/index/{post_id}', [JournalController::class, 'findSpecificItem']);
     Route::patch('/journal/{post_id}', [JournalController::class, 'update']);
