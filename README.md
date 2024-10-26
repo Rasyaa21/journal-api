@@ -14,3 +14,4 @@ php artisan serve (to run in your 127.0.0.1:8000)<br>
 9. Open in the browser by typing your ip address<br>
 10. Finish<br>
 
+Note: This setup is for local development. Ensure you have the necessary software (PHP, Composer, Laravel) installed on your machine.
