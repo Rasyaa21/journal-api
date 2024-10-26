@@ -16,4 +16,4 @@ php artisan serve (to run in your 127.0.0.1:8000)<br>
 
 Note: 
   - This setup is for local development. Ensure you have the necessary software (PHP, Composer, Laravel) installed on your machine.
-  - You can see the documentation in (your ip address)/api/documentation
+  - You can see the documentation at http://127.0.0.1:8000/api/documentation.
