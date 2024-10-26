@@ -11,6 +11,6 @@ How to install :
 php artisan key:generate <br>
 7. Run this by using this command : <br>
 php artisan serve (to run in your 127.0.0.1:8000)<br>
-9. Open in the browser by typing your ipaddress<br>
+9. Open in the browser by typing your ip address<br>
 10. Finish<br>
 
